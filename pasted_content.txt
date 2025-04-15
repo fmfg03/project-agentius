@@ -1,0 +1,16 @@
+MCP System - Multi-Client Protocol for LLM Collaboration
+License: MIT Node.js Version MongoDB Redis
+
+Overview
+MCP System is a collaborative website development platform that leverages Claude and ChatGPT as autonomous agents. The system enables structured, persistent dialogue between these LLMs, with one acting as a Builder to generate code and design solutions, and the other as a Judge to evaluate and critique the Builder's work.
+
+MCP System Screenshot
+
+Features
+Dual-Agent Architecture: Utilizes both Claude and ChatGPT in complementary roles
+Role Switching: Dynamically swap Builder and Judge roles between LLMs
+Persistent Memory: Maintains conversation history and context across sessions
+Token Optimization: Intelligently manages context windows for optimal performance
+Real-time Communication: Socket.io integration for immediate agent responses
+Project Management: Create and manage multiple website development projects
+Responsive UI: Modern interface that works across desktop and mobile devices
